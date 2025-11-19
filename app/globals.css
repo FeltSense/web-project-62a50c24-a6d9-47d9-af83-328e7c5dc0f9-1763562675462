@@ -46,6 +46,11 @@
 }
 
 @layer utilities {
+  /* Font Utilities */
+  .font-playfair {
+    font-family: var(--font-playfair);
+  }
+
   /* Elegant Animations for Financial Services */
   @keyframes fadeInUp {
     from {
